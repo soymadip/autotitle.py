@@ -4,8 +4,8 @@ A tool for renaming series episodes with proper titles, mark fillers.
 
 ## Features
 
->![WARNING]
-> This project is planned for future.
+> [!WARNING]
+> This project is in planning stage.  
 
 - Automatically renames episodes to a consistent format
 - Marks filler episodes based on a filler list
